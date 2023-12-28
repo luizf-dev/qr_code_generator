@@ -14,7 +14,13 @@ body{
     box-shadow: 3px 2px 20px 10px #000;
 }
 
-.qr{
+img{
+    transform: translateY(200%);
+    transition: all 1s ease-in-out;
+}
+
+img.loaded{
+    transform: translateY(0);
     background-color: darkcyan;
     padding: 50px 30px;
     border-radius: 5px;
@@ -27,6 +33,7 @@ input{
     width: 80%;
     margin-bottom: 25px;
     margin-top: 25px;
+    z-index: 1;
 }
 
 button{
@@ -37,6 +44,7 @@ button{
     border-radius: 5px;
     border: 1px solid black;
     cursor: pointer;
+    z-index: 1;
 }
 
 .btn-generate{
