@@ -1,5 +1,5 @@
 body{
-    background: #231c1c;
+    background: #fff;
 }
 
 .container{
@@ -34,6 +34,7 @@ input{
     margin-bottom: 25px;
     margin-top: 25px;
     z-index: 1;
+    border-radius: 5px;
 }
 
 button{
@@ -48,11 +49,11 @@ button{
 }
 
 .btn-generate{
-    background-color: darkcyan;
+    background-color: salmon;
 }
 
 .btn-download{
-    background-color: chartreuse;
+    background-color: darkgoldenrod;
 }
 
 .btn-download:hover{
