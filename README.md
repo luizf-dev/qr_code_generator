@@ -34,4 +34,4 @@ Aplicação para gerar QR Code e realizar o download do mesmo em formato PNG.
 
 ## Imagem Local
 
-![Página inicial](img/QR-%20Code%20Generator.png);
+![Página inicial](img/qr-code-generator.png)
