@@ -1,5 +1,6 @@
 body{
     background: #fff;
+    margin: 25px;
 }
 
 .container{
@@ -7,8 +8,8 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 0 auto;
-    min-height: 100vh;
+    margin: 0 auto 50px;
+    min-height: 80vh;
     width: 30%;
     background: rgb(116, 106, 106);
     box-shadow: 3px 2px 20px 10px #000;
