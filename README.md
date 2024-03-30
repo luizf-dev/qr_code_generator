@@ -31,3 +31,7 @@ Aplicação para gerar QR Code e realizar o download do mesmo em formato PNG.
         A imagem é convertida em um blob.
         Um elemento de link temporário é criado, configurado com o blob e um nome de arquivo para realizar o download.
         O link é clicado, iniciando o processo de download.
+
+## Imagem Local
+
+![Página inicial](img/QR-%20Code%20Generator.png);
